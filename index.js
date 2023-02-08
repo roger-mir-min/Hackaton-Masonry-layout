@@ -12,7 +12,6 @@ function carrega() {
         .then(data => {
             document.querySelector(".container").innerHTML = '';
             data.forEach((photo, i) => {
-                console.log(photo);
                 document.querySelector(".container").innerHTML +=`\
                 <div class="box">\
                     <img alt='Foto de unsplash' src='${photo.urls.small}'>\
