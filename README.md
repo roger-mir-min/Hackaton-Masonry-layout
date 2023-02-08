@@ -8,7 +8,7 @@ This is a simple Frontend project that fetches images from the API Unsplash (htt
 This project was created as a requirement to apply for the hackaton "Vueling Tech Hack" organized by NUWE (https://nuwe.io/dev/competitions/vueling-tech-hack).
 
 ## Usage
-The interface is very simple: 1. when it is load, the images from the API are displayed in the gallery; 2. the user just has to click to the button "Cargar nuevas fotos" that is placed at the top of the webpage to make a new request to the API and get new photos displayed.
+The interface is very simple: 1. when it is loaded, the images from the API are displayed in the gallery; 2. the user just has to click to the button "Cargar nuevas fotos" that is placed at the top of the webpage to make a new request to the API and get new photos displayed.
 
 ## Stack
 
