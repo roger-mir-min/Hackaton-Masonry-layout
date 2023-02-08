@@ -5,7 +5,6 @@
 //We fetch Unsplash photos and append them inside the .container HTML element
 const key = "Lhuq0m6fryaGF6Fd1Kzt15sLY30sL5HVcMGfLxSIWzU";
 
-
 function carrega() {
     fetch(`https://api.unsplash.com/photos/random?client_id=${key}&count=12`)
         .then(response => response.json())

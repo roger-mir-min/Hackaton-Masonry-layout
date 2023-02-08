@@ -16,6 +16,9 @@ This project only uses plain HTML, CSS and Javascript.
 CSS implements a "masonry" layout basically using the "columns" property.
 Javascript involves a function ("carrega()") that is called when the HTML body loads and when the button at the top of the webpage is clicked.
 
+## Quality
+This project got an A in the last Codefactor review.
+
 ## Contribution and support
 
 You can contribute to this project creating forks and making pull requests to my Github repository: https://github.com/RogerMirMin/Nuwe-Frontend-Challenge.git
