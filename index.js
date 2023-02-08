@@ -1,7 +1,3 @@
-// import * as dotenv from 'dotenv';
-// dotenv.config();
-// import express from 'express';
-
 //We fetch Unsplash photos and append them inside the .container HTML element
 const key = "Lhuq0m6fryaGF6Fd1Kzt15sLY30sL5HVcMGfLxSIWzU";
 
