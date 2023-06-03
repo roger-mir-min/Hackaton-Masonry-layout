@@ -1,4 +1,4 @@
-# Nuew-Frontend-Challenge
+# Nuwe-Frontend-Challenge
 
 This is a simple Frontend project that fetches images from the API Unsplash (https://unsplash.com/developers) and displays them as a three columns photo gallery (one column for mobiles).
 
