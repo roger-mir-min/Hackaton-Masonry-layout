@@ -26,7 +26,7 @@ You can contribute to this project creating forks and making pull requests to my
 ## Contact info
 
 Roger Miret
-r.mir.min@gmail.com
+r.mir.min@activicat.cat
 
 ## License 
 This project is released under the MIT License. It was created by Roger Miret Minard in 2023.
