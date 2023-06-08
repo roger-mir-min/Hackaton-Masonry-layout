@@ -3,9 +3,14 @@
 This is a simple Frontend project that fetches images from the API Unsplash (https://unsplash.com/developers) and displays them as a three columns photo gallery (one column for mobiles).
 
 
-## Background | Not using the common-readme | Not required
+## Background
 
 This project was created as a requirement to apply for the hackaton "Vueling Tech Hack" organized by NUWE (https://nuwe.io/dev/competitions/vueling-tech-hack).
+
+## Installing
+
+1. Clone the repository https://github.com/roger-mir-min/Hackaton-Masonry-layout.git
+2. Open `index.html` in your browser.
 
 ## Usage
 The interface is very simple: 1. when it is loaded, the images from the API are displayed in the gallery; 2. the user just has to click to the button "Cargar nuevas fotos" that is placed at the top of the webpage to make a new request to the API and get new photos displayed.
