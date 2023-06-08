@@ -29,4 +29,4 @@ Roger Miret
 r.mir.min@gmail.com
 
 ## License 
-All the images displayed in this project have free license.
+This project is released under the MIT License. It was created by Roger Miret Minard in 2023.
